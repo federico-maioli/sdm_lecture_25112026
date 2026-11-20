@@ -50,8 +50,9 @@ RStudio is a visual interface to R. Download the latest version at [https://www.
 
 
 ```r
-   install.packages(c("tidyverse", "glmmTMB", "sdmTMB",
-     "ggeffects", "terra", "sf"),
+   install.packages(c("tidyverse", "here", "glmmTMB", "sdmTMB",
+     "ggeffects", "terra", "sf", "rnaturalearth", "rnaturalearthdata",
+     "patchwork", "equatiomatic"),
      dependencies = TRUE)
 ```
 
