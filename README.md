@@ -1,4 +1,4 @@
-# sdm_lecture_27112024
+# sdm_lecture_25112026
 
 Repository for the species distribution models (SDMs) with R.
 
